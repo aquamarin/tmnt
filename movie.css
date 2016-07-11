@@ -1,0 +1,77 @@
+.banner
+{
+    position: center;
+    background-image:url("https://webster.cs.washington.edu/images/rancidbannerbg.png");
+    background-repeat:repeat-x;
+}
+
+body
+{
+    background-image: url('https://webster.cs.washington.edu/images/moviebg.png');
+
+}
+.number
+{
+    font:50pt  bold;
+    color:red;
+    background-image: url("https://webster.cs.washington.edu/images/rottenlargebg.png");
+    background-repeat:repeat-x;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.number img
+{
+    border-top-left-radius: 20px;
+}
+.ninja img
+{
+    border-top-right-radius: 40px;
+    width:250px;
+}
+#ninjaAlt
+{
+    position:relative;
+    width:250px;
+    float:left;
+
+    background-color:#A2B964;
+    font-size:10pt;
+    font-family: Arial , Helvetica , sans-serif;
+
+}
+h1
+{
+    font-family: Georgia , "Times New Roman" , serif;
+    font-size:24px;
+    font-weight:bold;
+    text-shadow:3px 3px 1px #999999;
+    text-align:center;
+}
+
+.anaBolum
+{
+
+    border-radius:  40px;
+    background-color:#ffffff;
+    margin: auto;
+    width:800px;
+    height:800pt;
+}
+.yan
+{
+    float: left;
+    width:250px;
+    border: 3px solid ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
