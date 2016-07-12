@@ -12,7 +12,7 @@ body
 }
 .number
 {
-    font:50pt  bold;
+    font:48pt bold;
     color:red;
     background-image: url("https://webster.cs.washington.edu/images/rottenlargebg.png");
     background-repeat:repeat-x;
@@ -51,20 +51,25 @@ h1
 .anaBolum
 {
 
-    border-radius:  40px;
-    background-color:#ffffff;
+    border-radius:  20px;
+    background-color:#EEEEEE;
     margin: auto;
-    width:800px;
-    height:800pt;
+    width:850px;
+    height:900pt;
 }
 .yan
 {
     float: left;
-    width:250px;
-    border: 3px solid ;
-
+    width:300px;
 }
-
+.yan p
+{
+    border: 2px solid #CCCCCC;
+    background-color: #FFFFFF;
+    margin: 5pt;
+    border-radius: 20px;
+    padding: 5pt;
+}
 
 
 
